@@ -1,0 +1,854 @@
+ 2023-01-28T14:07:42.684109062 Entering main Method
+   2023-01-28T14:07:42.686770282 DataBase is running
+   2023-01-28T14:07:42.688047250 getTheDetails.runner method run
+   2023-01-28T14:07:42.688113419 getTheDetails.getDbconnection method run
+   2023-01-28T14:07:42.688150884 getTheDetails.Dbconnection variable initialize
+   2023-01-28T14:07:43.053022506 getTheDetails.getDbconnection method ended
+   2023-01-28T14:07:43.053094648 getTheDetatils.runner method ended
+   2023-01-28T14:07:43.053125129 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-28T14:07:43.064785900 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-28T14:07:43.064886859 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:07:43.067168644 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T14:07:43.067246107 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:07:43.069706381 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T14:47:28.300559886 Entering main Method
+   2023-01-28T14:47:28.302471463 DataBase is running
+   2023-01-28T14:47:28.303206864 getTheDetails.runner method run
+   2023-01-28T14:47:28.303251337 getTheDetails.getDbconnection method run
+   2023-01-28T14:47:28.303278142 getTheDetails.Dbconnection variable initialize
+   2023-01-28T14:47:28.581338678 getTheDetails.getDbconnection method ended
+   2023-01-28T14:47:28.581409661 getTheDetatils.runner method ended
+   2023-01-28T14:47:28.581435014 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-28T14:47:28.592106587 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-28T14:47:28.592382405 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:47:28.595533828 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T14:47:28.595753543 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:47:28.597827240 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T14:47:34.072831786 Entering main Method
+   2023-01-28T14:47:34.074556561 DataBase is running
+   2023-01-28T14:47:34.075307165 getTheDetails.runner method run
+   2023-01-28T14:47:34.075354949 getTheDetails.getDbconnection method run
+   2023-01-28T14:47:34.075385400 getTheDetails.Dbconnection variable initialize
+   2023-01-28T14:47:34.354164269 getTheDetails.getDbconnection method ended
+   2023-01-28T14:47:34.354253020 getTheDetatils.runner method ended
+   2023-01-28T14:47:34.354278199 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-28T14:47:34.365783388 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-28T14:47:34.365901010 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:47:34.368571887 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T14:47:34.368640363 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T14:47:34.370153223 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T15:38:09.935409284 Entering main Method
+   2023-01-28T15:38:09.937771324 DataBase is running
+   2023-01-28T15:38:09.938687312 getTheDetails.runner method run
+   2023-01-28T15:38:09.938744368 getTheDetails.getDbconnection method run
+   2023-01-28T15:38:09.938777107 getTheDetails.Dbconnection variable initialize
+   2023-01-28T15:38:10.253379892 getTheDetails.getDbconnection method ended
+   2023-01-28T15:38:10.253467922 getTheDetatils.runner method ended
+   2023-01-28T15:38:10.253497896 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-28T15:38:10.268772385 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-28T15:38:10.268898928 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T15:38:10.271109764 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T15:38:10.271195535 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T15:38:10.273463327 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T15:38:25.817669189 Entering main Method
+   2023-01-28T15:38:25.821003326 DataBase is running
+   2023-01-28T15:38:25.822253348 getTheDetails.runner method run
+   2023-01-28T15:38:25.822341902 getTheDetails.getDbconnection method run
+   2023-01-28T15:38:25.822384916 getTheDetails.Dbconnection variable initialize
+   2023-01-28T15:38:26.173430353 getTheDetails.getDbconnection method ended
+   2023-01-28T15:38:26.173540042 getTheDetatils.runner method ended
+   2023-01-28T15:38:26.173576400 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-28T15:38:26.187971250 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-28T15:38:26.188092077 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T15:38:26.190538692 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T15:38:26.190604244 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-28T15:38:26.192723556 getTheDetails.getAllrecordsStudents method ended
+   2023-01-28T15:39:28.960368667 getTheDetails.insertData method is running
+   2023-01-28T15:39:28.960572739 student data insert the database
+   2023-01-28T15:39:28.974824150 convertTime  is running(util.Date to sql.Date)
+   2023-01-28T15:39:28.974936803 convertTime method runned
+  1246 2023-01-28T15:40:48.646268910 getTheDetails.UpdateTeacher method start
+  1246 2023-01-28T15:40:48.646675791 1. change name     2.change age     3.change gender    4.change date     5.change experience   6. change Studentlist  7. languages  
+choose one
+  1246 2023-01-28T15:41:11.886973258 choice ans-->1
+  1246 2023-01-28T15:41:11.887112152 switch case start
+  1246 2023-01-28T15:41:11.887163471 getTheDetails.changeTeacherName method start
+  1246 2023-01-28T15:41:16.845997417 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  1246 2023-01-28T15:41:16.846124733 getTheDetails.changeTeacherName method ended
+  1246 2023-01-28T15:41:36.852559245 getTheDetails.UpdateTeacher method start
+  1246 2023-01-28T15:41:36.852809806 1. change name     2.change age     3.change gender    4.change date     5.change experience   6. change Studentlist  7. languages  
+choose one
+  1246 2023-01-28T15:41:40.795178945 choice ans-->1
+  1246 2023-01-28T15:41:40.795346969 switch case start
+  1246 2023-01-28T15:41:40.795402903 getTheDetails.changeTeacherName method start
+  1246 2023-01-28T15:41:45.561845760 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  1246 2023-01-28T15:41:45.561933431 getTheDetails.changeTeacherName method ended
+  2400 2023-01-28T15:44:00.888228221 convertTime  is running(util.Date to sql.Date)
+  2400 2023-01-28T15:44:00.888327161 convertTime method runned
+  2400 2023-01-28T15:45:32.893825210 Enter the updateStudent method is running
+  2400 2023-01-28T15:45:32.893924322 1.change name
+2.change age
+3.change Gender
+4.change Date
+choose One
+  2400 2023-01-28T15:45:41.124497626 choice answer -->1
+  2400 2023-01-28T15:45:41.124739740 switch case is starting
+  2400 2023-01-28T15:45:41.124771597 getTheDetails.changeStudentName method is running
+  2400 2023-01-28T15:46:04.458535010 getTheDetails.changeStudentName method entered
+  2400 2023-01-28T15:46:04.458638577 getTheDetails.UpdateStudent method entered
+   2023-01-30T17:47:44.223679042 Entering main Method
+   2023-01-30T17:47:44.247300268 DataBase is running
+   2023-01-30T17:47:44.247384909 getTheDetails.runner method run
+   2023-01-30T17:47:44.247424065 getTheDetails.getDbconnection method run
+   2023-01-30T17:47:44.247454499 getTheDetails.Dbconnection variable initialize
+   2023-01-30T17:47:44.895701916 getTheDetails.getDbconnection method ended
+   2023-01-30T17:47:44.895777119 getTheDetatils.runner method ended
+   2023-01-30T17:47:44.895809112 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T17:47:44.909917783 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T17:47:44.910014516 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:47:44.912532859 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:47:44.912619127 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:47:44.915068379 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:48:28.372357299 Entering main Method
+   2023-01-30T17:48:28.374955184 DataBase is running
+   2023-01-30T17:48:28.376215636 getTheDetails.runner method run
+   2023-01-30T17:48:28.376278489 getTheDetails.getDbconnection method run
+   2023-01-30T17:48:28.376329804 getTheDetails.Dbconnection variable initialize
+   2023-01-30T17:48:28.787668381 getTheDetails.getDbconnection method ended
+   2023-01-30T17:48:28.787739319 getTheDetatils.runner method ended
+   2023-01-30T17:48:28.802994927 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T17:48:28.814199208 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T17:48:28.814288239 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:48:28.817753510 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:48:28.817853980 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:48:28.820555328 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:51:26.111497626 Entering main Method
+   2023-01-30T17:51:26.113587198 DataBase is running
+   2023-01-30T17:51:26.114661142 getTheDetails.runner method run
+   2023-01-30T17:51:26.114721013 getTheDetails.getDbconnection method run
+   2023-01-30T17:51:26.114757789 getTheDetails.Dbconnection variable initialize
+   2023-01-30T17:51:26.481460665 getTheDetails.getDbconnection method ended
+   2023-01-30T17:51:26.481544072 getTheDetatils.runner method ended
+   2023-01-30T17:51:26.496278786 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T17:51:26.509659703 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T17:51:26.509752998 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:51:26.512790906 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:51:26.512885041 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:51:26.515497405 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:51:47.969053886 Entering main Method
+   2023-01-30T17:51:47.971364699 DataBase is running
+   2023-01-30T17:51:47.972893712 getTheDetails.runner method run
+   2023-01-30T17:51:47.972961747 getTheDetails.getDbconnection method run
+   2023-01-30T17:51:47.973006821 getTheDetails.Dbconnection variable initialize
+   2023-01-30T17:51:48.359644559 getTheDetails.getDbconnection method ended
+   2023-01-30T17:51:48.359709184 getTheDetatils.runner method ended
+   2023-01-30T17:51:48.375716674 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T17:51:48.388276371 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T17:51:48.388438448 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:51:48.391229757 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:51:48.391311320 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:51:48.394514975 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:53:33.753599063 Entering main Method
+   2023-01-30T17:53:33.756314602 DataBase is running
+   2023-01-30T17:53:33.757590019 getTheDetails.runner method run
+   2023-01-30T17:53:33.757656937 getTheDetails.getDbconnection method run
+   2023-01-30T17:53:33.757696351 getTheDetails.Dbconnection variable initialize
+   2023-01-30T17:53:34.198233189 getTheDetails.getDbconnection method ended
+   2023-01-30T17:53:34.198306447 getTheDetatils.runner method ended
+   2023-01-30T17:53:34.374656300 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T17:53:34.386446572 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T17:53:34.386530005 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:53:34.388639090 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T17:53:34.388715758 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T17:53:34.391666331 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:01:08.844135487 Entering main Method
+   2023-01-30T18:01:08.847191762 DataBase is running
+   2023-01-30T18:01:08.848435254 getTheDetails.runner method run
+   2023-01-30T18:01:08.848510702 getTheDetails.getDbconnection method run
+   2023-01-30T18:01:08.848554226 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:01:09.243428795 getTheDetails.getDbconnection method ended
+   2023-01-30T18:01:09.243509877 getTheDetatils.runner method ended
+   2023-01-30T18:01:09.413857093 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:01:09.425127225 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:01:09.425227337 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:01:09.427678185 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:01:09.427748754 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:01:09.430347249 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:03:28.353069643 Entering main Method
+   2023-01-30T18:03:28.355851797 DataBase is running
+   2023-01-30T18:03:28.357715404 getTheDetails.runner method run
+   2023-01-30T18:03:28.357783869 getTheDetails.getDbconnection method run
+   2023-01-30T18:03:28.357821643 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:03:28.767662579 getTheDetails.getDbconnection method ended
+   2023-01-30T18:03:28.767996531 getTheDetatils.runner method ended
+   2023-01-30T18:03:28.949023922 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:03:28.970217534 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:03:28.970331105 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:03:28.973455348 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:03:28.973543069 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:03:28.976014156 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:03:29.989863571 Entering main Method
+   2023-01-30T18:03:29.992178943 DataBase is running
+   2023-01-30T18:03:29.993190720 getTheDetails.runner method run
+   2023-01-30T18:03:29.993258533 getTheDetails.getDbconnection method run
+   2023-01-30T18:03:29.993299861 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:03:30.430206142 getTheDetails.getDbconnection method ended
+   2023-01-30T18:03:30.430271012 getTheDetatils.runner method ended
+   2023-01-30T18:03:30.445113675 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:03:30.455935945 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:03:30.456030368 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:03:30.458497417 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:03:30.458575813 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:03:30.461251618 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:06:33.802430050 Entering main Method
+   2023-01-30T18:06:33.805185337 DataBase is running
+   2023-01-30T18:06:33.806621873 getTheDetails.runner method run
+   2023-01-30T18:06:33.806697058 getTheDetails.getDbconnection method run
+   2023-01-30T18:06:33.806745828 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:06:34.206426139 getTheDetails.getDbconnection method ended
+   2023-01-30T18:06:34.206520563 getTheDetatils.runner method ended
+   2023-01-30T18:06:34.225203052 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:06:34.236594815 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:06:34.236670309 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:06:34.239357406 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:06:34.239441739 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:06:34.242072732 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:08:09.773702391 Entering main Method
+   2023-01-30T18:08:09.776122239 DataBase is running
+   2023-01-30T18:08:09.777383606 getTheDetails.runner method run
+   2023-01-30T18:08:09.777449774 getTheDetails.getDbconnection method run
+   2023-01-30T18:08:09.777490047 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:08:10.187317856 getTheDetails.getDbconnection method ended
+   2023-01-30T18:08:10.187385509 getTheDetatils.runner method ended
+   2023-01-30T18:08:10.206453017 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:08:10.217472143 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:08:10.217558494 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:08:10.221013525 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:08:10.221096504 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:08:10.223626868 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:10:09.862976398 Entering main Method
+   2023-01-30T18:10:09.865547706 DataBase is running
+   2023-01-30T18:10:09.866776143 getTheDetails.runner method run
+   2023-01-30T18:10:09.866944235 getTheDetails.getDbconnection method run
+   2023-01-30T18:10:09.867095233 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:10:10.282132871 getTheDetails.getDbconnection method ended
+   2023-01-30T18:10:10.282200 getTheDetatils.runner method ended
+   2023-01-30T18:10:10.300182922 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:10:10.311172538 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:10:10.311257630 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:10:10.313580027 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:10:10.313681043 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:10:10.316467073 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:16:50.213763076 Entering main Method
+   2023-01-30T18:16:50.217102757 DataBase is running
+   2023-01-30T18:16:50.219275739 getTheDetails.runner method run
+   2023-01-30T18:16:50.219352509 getTheDetails.getDbconnection method run
+   2023-01-30T18:16:50.219404364 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:16:50.630832595 getTheDetails.getDbconnection method ended
+   2023-01-30T18:16:50.630900681 getTheDetatils.runner method ended
+   2023-01-30T18:16:50.648443790 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:16:50.660789249 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:16:50.660873347 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:16:50.663628416 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:16:50.663705740 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:16:50.666360611 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:18:48.905974426 Entering main Method
+   2023-01-30T18:18:48.908234788 DataBase is running
+   2023-01-30T18:18:48.909298430 getTheDetails.runner method run
+   2023-01-30T18:18:48.909351920 getTheDetails.getDbconnection method run
+   2023-01-30T18:18:48.909402274 getTheDetails.Dbconnection variable initialize
+   2023-01-30T18:18:49.288467456 getTheDetails.getDbconnection method ended
+   2023-01-30T18:18:49.288546322 getTheDetatils.runner method ended
+   2023-01-30T18:18:49.460024377 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T18:18:49.472310192 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T18:18:49.472394135 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:18:49.474678446 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T18:18:49.474762171 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T18:18:49.476901743 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:29:42.392058630 Entering main Method
+   2023-01-30T21:29:42.394708205 DataBase is running
+   2023-01-30T21:29:42.395848833 getTheDetails.runner method run
+   2023-01-30T21:29:42.395912054 getTheDetails.getDbconnection method run
+   2023-01-30T21:29:42.395953569 getTheDetails.Dbconnection variable initialize
+   2023-01-30T21:29:42.770736671 getTheDetails.getDbconnection method ended
+   2023-01-30T21:29:42.770822825 getTheDetatils.runner method ended
+   2023-01-30T21:29:42.947817516 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T21:29:42.959278037 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T21:29:42.959369198 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:29:42.961918116 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:29:42.961993160 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:29:42.964294149 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:36:31.074871714 Entering main Method
+   2023-01-30T21:36:31.077615616 DataBase is running
+   2023-01-30T21:36:31.079572389 getTheDetails.runner method run
+   2023-01-30T21:36:31.079639854 getTheDetails.getDbconnection method run
+   2023-01-30T21:36:31.079688097 getTheDetails.Dbconnection variable initialize
+   2023-01-30T21:36:31.490951411 getTheDetails.getDbconnection method ended
+   2023-01-30T21:36:31.491030017 getTheDetatils.runner method ended
+   2023-01-30T21:36:31.743118036 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T21:36:31.755592784 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T21:36:31.755694404 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:36:31.757822433 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:36:31.757909932 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:36:31.760302432 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:38:37.716057732 Entering main Method
+   2023-01-30T21:38:37.718756969 DataBase is running
+   2023-01-30T21:38:37.719906369 getTheDetails.runner method run
+   2023-01-30T21:38:37.719972062 getTheDetails.getDbconnection method run
+   2023-01-30T21:38:37.720012699 getTheDetails.Dbconnection variable initialize
+   2023-01-30T21:38:38.128874807 getTheDetails.getDbconnection method ended
+   2023-01-30T21:38:38.128974935 getTheDetatils.runner method ended
+   2023-01-30T21:38:38.351408762 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T21:38:38.361567297 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T21:38:38.361655458 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:38:38.363840798 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:38:38.363920837 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:38:38.366642378 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:54:11.122423635 Entering main Method
+   2023-01-30T21:54:11.124099709 getTheDetails.runner method run
+   2023-01-30T21:54:11.124178050 getTheDetails.getDbconnection method run
+   2023-01-30T21:54:11.124215762 getTheDetails.Dbconnection variable initialize
+   2023-01-30T21:54:11.514951493 getTheDetails.getDbconnection method ended
+   2023-01-30T21:54:11.515033113 getTheDetatils.runner method ended
+   2023-01-30T21:54:11.515066348 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T21:54:11.530609549 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T21:54:11.530743291 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:54:11.534008269 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:54:11.534097464 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:54:11.536349537 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:59:18.760146525 Entering main Method
+   2023-01-30T21:59:18.761925107 getTheDetails.runner method run
+   2023-01-30T21:59:18.761992365 getTheDetails.getDbconnection method run
+   2023-01-30T21:59:18.762033582 getTheDetails.Dbconnection variable initialize
+   2023-01-30T21:59:19.126430641 getTheDetails.getDbconnection method ended
+   2023-01-30T21:59:19.126504486 getTheDetatils.runner method ended
+   2023-01-30T21:59:19.126538491 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T21:59:19.140076137 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T21:59:19.140161985 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:59:19.142790526 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T21:59:19.142874260 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T21:59:19.145306930 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-30T22:01:51.960963619 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-30T22:01:59.220080150 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-30T22:01:59.220827149 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-30T22:02:15.064816193 Entering main Method
+   2023-01-30T22:02:15.067304799 getTheDetails.runner method run
+   2023-01-30T22:02:15.067386068 getTheDetails.getDbconnection method run
+   2023-01-30T22:02:15.067430107 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:02:15.449163872 getTheDetails.getDbconnection method ended
+   2023-01-30T22:02:15.449245603 getTheDetatils.runner method ended
+   2023-01-30T22:02:15.449279346 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:02:15.462713463 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:02:15.462797727 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:02:15.465904349 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:02:15.465997457 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:02:15.468951068 getTheDetails.getAllrecordsStudents method ended
+  1234 2023-01-30T22:04:00.779696500 getTheDetails.UpdateTeacher method start
+  1234 2023-01-30T22:04:00.780062058 1. change name     2.change age     3.change gender    4.change date     5.change experience   6. change Studentlist  7. languages  
+choose one
+  1234 2023-01-30T22:04:03.736017575 choice ans-->6
+  1234 2023-01-30T22:04:03.736356005 switch case start
+  1234 2023-01-30T22:04:03.736447926 getTheDetails.changeTeacherStudentlist method start
+  1234 2023-01-30T22:04:08.953795357 getTheDetails.changeTeacherStudentlist method ended
+   2023-01-30T22:05:58.709434243 Entering main Method
+   2023-01-30T22:05:58.711333929 getTheDetails.runner method run
+   2023-01-30T22:05:58.711404023 getTheDetails.getDbconnection method run
+   2023-01-30T22:05:58.711442848 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:05:59.108500114 getTheDetails.getDbconnection method ended
+   2023-01-30T22:05:59.108591729 getTheDetatils.runner method ended
+   2023-01-30T22:05:59.108635292 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:05:59.122470913 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:05:59.122569568 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:05:59.125598203 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:05:59.125710017 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:05:59.128256476 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:06:08.602517873 Entering main Method
+   2023-01-30T22:06:08.604781944 getTheDetails.runner method run
+   2023-01-30T22:06:08.604863192 getTheDetails.getDbconnection method run
+   2023-01-30T22:06:08.604912717 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:06:08.978534248 getTheDetails.getDbconnection method ended
+   2023-01-30T22:06:08.978609987 getTheDetatils.runner method ended
+   2023-01-30T22:06:08.978641221 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:06:08.991617701 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:06:08.991707656 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:06:08.994134143 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:06:08.994209788 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:06:08.996372314 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:07:26.138976184 Entering main Method
+   2023-01-30T22:07:26.140892676 getTheDetails.runner method run
+   2023-01-30T22:07:26.140960467 getTheDetails.getDbconnection method run
+   2023-01-30T22:07:26.140996385 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:07:26.545138180 getTheDetails.getDbconnection method ended
+   2023-01-30T22:07:26.545220753 getTheDetatils.runner method ended
+   2023-01-30T22:07:26.545266874 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:07:26.560613097 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:07:26.560772872 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:07:26.563607831 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:07:26.563684648 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:07:26.566905220 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-30T22:07:44.793401869 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-30T22:07:59.379301754 Entering main Method
+   2023-01-30T22:07:59.387227553 getTheDetails.runner method run
+   2023-01-30T22:07:59.387307471 getTheDetails.getDbconnection method run
+   2023-01-30T22:07:59.387352504 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:07:59.796235544 getTheDetails.getDbconnection method ended
+   2023-01-30T22:07:59.796332948 getTheDetatils.runner method ended
+   2023-01-30T22:07:59.796362041 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:07:59.807899119 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:07:59.807982239 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:07:59.810361714 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:07:59.810442109 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:07:59.813172327 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-30T22:08:19.969469478 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-30T22:12:48.087064547 Entering main Method
+   2023-01-30T22:12:48.089110207 getTheDetails.runner method run
+   2023-01-30T22:12:48.089210887 getTheDetails.getDbconnection method run
+   2023-01-30T22:12:48.089250684 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:12:48.477240463 getTheDetails.getDbconnection method ended
+   2023-01-30T22:12:48.477313205 getTheDetatils.runner method ended
+   2023-01-30T22:12:48.477343210 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:12:48.491545247 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:12:48.491634087 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:12:48.494567408 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:12:48.494658116 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:12:48.496834375 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:17:19.688343316 Entering main Method
+   2023-01-30T22:17:19.690895434 getTheDetails.runner method run
+   2023-01-30T22:17:19.690974436 getTheDetails.getDbconnection method run
+   2023-01-30T22:17:19.691019605 getTheDetails.Dbconnection variable initialize
+   2023-01-30T22:17:20.087252337 getTheDetails.getDbconnection method ended
+   2023-01-30T22:17:20.087340781 getTheDetatils.runner method ended
+   2023-01-30T22:17:20.087383983 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-30T22:17:20.102984228 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-30T22:17:20.103072496 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:17:20.106257455 getTheDetails.getAllrecordsStudents method ended
+   2023-01-30T22:17:20.106348550 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-30T22:17:20.108521513 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:03:20.171894447 Entering main Method
+   2023-01-31T09:03:20.174023089 getTheDetails.runner method run
+   2023-01-31T09:03:20.174085694 getTheDetails.getDbconnection method run
+   2023-01-31T09:03:20.174119156 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:03:20.543490314 getTheDetails.getDbconnection method ended
+   2023-01-31T09:03:20.543562677 getTheDetatils.runner method ended
+   2023-01-31T09:03:20.543592596 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:03:20.556083030 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:03:20.556171243 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:03:20.558306492 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:03:20.558385723 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:03:20.560475097 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:09:51.416241376 Entering main Method
+   2023-01-31T09:09:51.418237625 getTheDetails.runner method run
+   2023-01-31T09:09:51.418302082 getTheDetails.getDbconnection method run
+   2023-01-31T09:09:51.418340722 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:09:51.807706055 getTheDetails.getDbconnection method ended
+   2023-01-31T09:09:51.807781833 getTheDetatils.runner method ended
+   2023-01-31T09:09:51.807813082 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:09:51.824389931 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:09:51.824521790 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:09:51.827092730 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:09:51.827171540 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:09:51.829544383 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:11:49.963270458 Entering main Method
+   2023-01-31T09:11:49.965048379 getTheDetails.runner method run
+   2023-01-31T09:11:49.965108777 getTheDetails.getDbconnection method run
+   2023-01-31T09:11:49.965150996 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:11:50.341518687 getTheDetails.getDbconnection method ended
+   2023-01-31T09:11:50.341612601 getTheDetatils.runner method ended
+   2023-01-31T09:11:50.341652587 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:11:50.356291689 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:11:50.356400005 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:11:50.359349886 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:11:50.359432628 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:11:50.361651834 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T09:12:11.856915007 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T09:12:25.617653574 Entering main Method
+   2023-01-31T09:12:25.619173995 getTheDetails.runner method run
+   2023-01-31T09:12:25.619235316 getTheDetails.getDbconnection method run
+   2023-01-31T09:12:25.619266808 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:12:26.027538243 getTheDetails.getDbconnection method ended
+   2023-01-31T09:12:26.027628935 getTheDetatils.runner method ended
+   2023-01-31T09:12:26.027665402 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:12:26.041311726 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:12:26.041409752 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:12:26.044567810 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:12:26.044669132 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:12:26.047652547 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T09:12:45.526710912 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T09:14:01.455064398 Entering main Method
+   2023-01-31T09:14:01.456657963 getTheDetails.runner method run
+   2023-01-31T09:14:01.456745787 getTheDetails.getDbconnection method run
+   2023-01-31T09:14:01.456790341 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:14:01.853604411 getTheDetails.getDbconnection method ended
+   2023-01-31T09:14:01.853687080 getTheDetatils.runner method ended
+   2023-01-31T09:14:01.853722281 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:14:01.867381667 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:14:01.867471070 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:14:01.870183853 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:14:01.870269517 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:14:01.872879834 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:14:41.774628612 Entering main Method
+   2023-01-31T09:14:41.776348847 getTheDetails.runner method run
+   2023-01-31T09:14:41.776430525 getTheDetails.getDbconnection method run
+   2023-01-31T09:14:41.776474471 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:14:42.159551075 getTheDetails.getDbconnection method ended
+   2023-01-31T09:14:42.159624578 getTheDetatils.runner method ended
+   2023-01-31T09:14:42.159653721 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:14:42.174538299 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:14:42.174619901 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:14:42.177031367 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:14:42.177108490 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:14:42.179040361 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:17:37.207752936 Entering main Method
+   2023-01-31T09:17:37.209668442 getTheDetails.runner method run
+   2023-01-31T09:17:37.209731180 getTheDetails.getDbconnection method run
+   2023-01-31T09:17:37.209766495 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:17:37.579950606 getTheDetails.getDbconnection method ended
+   2023-01-31T09:17:37.580040913 getTheDetatils.runner method ended
+   2023-01-31T09:17:37.580083989 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:17:37.594829207 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:17:37.594905900 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:17:37.597386645 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:17:37.597462853 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:17:37.599729731 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T09:18:02.423044846 Enter the updateStudent method is running
+  2400 2023-01-31T09:18:02.423519355 1.change name
+2.change age
+3.change Gender
+4.change Date
+choose One
+  2400 2023-01-31T09:18:07.602386936 choice answer -->1
+  2400 2023-01-31T09:18:07.602660823 switch case is starting
+  2400 2023-01-31T09:18:07.611219111 getTheDetails.changeStudentName method is running
+  2400 2023-01-31T09:18:11.378493655 getTheDetails.changeStudentName method entered
+  2400 2023-01-31T09:18:11.378671425 getTheDetails.UpdateStudent method entered
+  2400 2023-01-31T09:18:32.359165193 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-31T09:18:40.415536188 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T09:23:40.793922595 Entering main Method
+   2023-01-31T09:23:40.795657557 getTheDetails.runner method run
+   2023-01-31T09:23:40.795730175 getTheDetails.getDbconnection method run
+   2023-01-31T09:23:40.795769498 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:23:41.183555015 getTheDetails.getDbconnection method ended
+   2023-01-31T09:23:41.183639335 getTheDetatils.runner method ended
+   2023-01-31T09:23:41.183675175 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:23:41.198193345 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:23:41.198268571 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:23:41.200704249 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:23:41.200775485 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:23:41.202818962 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T09:24:10.086876770 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-31T09:24:18.102649235 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T09:24:29.283392664 Entering main Method
+   2023-01-31T09:24:29.285178427 getTheDetails.runner method run
+   2023-01-31T09:24:29.285245028 getTheDetails.getDbconnection method run
+   2023-01-31T09:24:29.285296682 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:24:29.670348312 getTheDetails.getDbconnection method ended
+   2023-01-31T09:24:29.670428802 getTheDetatils.runner method ended
+   2023-01-31T09:24:29.670461821 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:24:29.684927447 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:24:29.685013060 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:24:29.687188531 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:24:29.687252467 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:24:29.689434062 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:25:27.454270746 Entering main Method
+   2023-01-31T09:25:27.455975807 getTheDetails.runner method run
+   2023-01-31T09:25:27.456039080 getTheDetails.getDbconnection method run
+   2023-01-31T09:25:27.456074449 getTheDetails.Dbconnection variable initialize
+   2023-01-31T09:25:27.809840316 getTheDetails.getDbconnection method ended
+   2023-01-31T09:25:27.809925186 getTheDetatils.runner method ended
+   2023-01-31T09:25:27.809961351 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T09:25:27.825734688 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T09:25:27.825828831 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:25:27.828233316 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T09:25:27.828310935 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T09:25:27.830536477 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:10:26.660395282 Entering main Method
+   2023-01-31T11:10:26.662925162 getTheDetails.runner method run
+   2023-01-31T11:10:26.662994936 getTheDetails.getDbconnection method run
+   2023-01-31T11:10:26.663029922 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:10:27.168291250 getTheDetails.getDbconnection method ended
+   2023-01-31T11:10:27.168493883 getTheDetatils.runner method ended
+   2023-01-31T11:10:27.168619988 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:10:27.179582752 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:10:27.179663216 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:10:27.181969802 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:10:27.182045467 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:10:27.183919821 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:12:42.630783242 Entering main Method
+   2023-01-31T11:12:42.632655002 getTheDetails.runner method run
+   2023-01-31T11:12:42.632727898 getTheDetails.getDbconnection method run
+   2023-01-31T11:12:42.632765075 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:12:42.987838370 getTheDetails.getDbconnection method ended
+   2023-01-31T11:12:42.987903264 getTheDetatils.runner method ended
+   2023-01-31T11:12:42.987927271 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:12:43.000358747 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:12:43.000465272 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:12:43.003491926 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:12:43.003593193 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:12:43.005780617 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:16:53.523943207 Entering main Method
+   2023-01-31T11:16:53.525882803 getTheDetails.runner method run
+   2023-01-31T11:16:53.525948384 getTheDetails.getDbconnection method run
+   2023-01-31T11:16:53.525979962 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:16:53.861005445 getTheDetails.getDbconnection method ended
+   2023-01-31T11:16:53.861078236 getTheDetatils.runner method ended
+   2023-01-31T11:16:53.861110487 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:16:53.874503666 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:16:53.874665645 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:16:53.877147794 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:16:53.877233450 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:16:53.879245294 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T11:17:08.141395679 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-31T11:17:13.733670811 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T11:17:54.067258656 Entering main Method
+   2023-01-31T11:17:54.069243300 getTheDetails.runner method run
+   2023-01-31T11:17:54.069310523 getTheDetails.getDbconnection method run
+   2023-01-31T11:17:54.069347029 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:17:54.394752896 getTheDetails.getDbconnection method ended
+   2023-01-31T11:17:54.394838338 getTheDetatils.runner method ended
+   2023-01-31T11:17:54.394869359 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:17:54.406523990 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:17:54.406622231 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:17:54.409356356 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:17:54.409442245 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:17:54.411931022 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:18:00.980130152 Entering main Method
+   2023-01-31T11:18:00.982117203 getTheDetails.runner method run
+   2023-01-31T11:18:00.982185969 getTheDetails.getDbconnection method run
+   2023-01-31T11:18:00.982224242 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:18:01.327567174 getTheDetails.getDbconnection method ended
+   2023-01-31T11:18:01.327631654 getTheDetatils.runner method ended
+   2023-01-31T11:18:01.327657333 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:18:01.338992408 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:18:01.339086347 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:18:01.341118850 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:18:01.341187311 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:18:01.343311618 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:19:50.685006584 Entering main Method
+   2023-01-31T11:19:50.686866388 getTheDetails.runner method run
+   2023-01-31T11:19:50.686933491 getTheDetails.getDbconnection method run
+   2023-01-31T11:19:50.686973053 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:19:51.028829990 getTheDetails.getDbconnection method ended
+   2023-01-31T11:19:51.028889371 getTheDetatils.runner method ended
+   2023-01-31T11:19:51.028911775 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:19:51.042495 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:19:51.042594444 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:19:51.044761825 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:19:51.044828399 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:19:51.046820812 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:20:26.534023673 Entering main Method
+   2023-01-31T11:20:26.535569866 getTheDetails.runner method run
+   2023-01-31T11:20:26.535629524 getTheDetails.getDbconnection method run
+   2023-01-31T11:20:26.535661296 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:20:26.885668682 getTheDetails.getDbconnection method ended
+   2023-01-31T11:20:26.885738197 getTheDetatils.runner method ended
+   2023-01-31T11:20:26.885766967 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:20:26.898939405 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:20:26.899053017 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:20:26.901264437 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:20:26.901342686 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:20:26.903261769 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T11:20:41.920810090 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T11:20:48.098409632 Entering main Method
+   2023-01-31T11:20:48.100620756 getTheDetails.runner method run
+   2023-01-31T11:20:48.100699568 getTheDetails.getDbconnection method run
+   2023-01-31T11:20:48.100744741 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:20:48.449062096 getTheDetails.getDbconnection method ended
+   2023-01-31T11:20:48.449127820 getTheDetatils.runner method ended
+   2023-01-31T11:20:48.449153102 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:20:48.462974465 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:20:48.463101563 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:20:48.465815509 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:20:48.465900907 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:20:48.468240858 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T11:21:03.554726615 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T11:21:10.218250660 Entering main Method
+   2023-01-31T11:21:10.219694338 getTheDetails.runner method run
+   2023-01-31T11:21:10.219758430 getTheDetails.getDbconnection method run
+   2023-01-31T11:21:10.219789340 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:21:10.566125040 getTheDetails.getDbconnection method ended
+   2023-01-31T11:21:10.566189564 getTheDetatils.runner method ended
+   2023-01-31T11:21:10.566213960 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:21:10.576682360 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:21:10.576779679 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:21:10.578855808 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:21:10.578920997 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:21:10.581032975 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:23:16.911538591 Entering main Method
+   2023-01-31T11:23:16.913299263 getTheDetails.runner method run
+   2023-01-31T11:23:16.913361897 getTheDetails.getDbconnection method run
+   2023-01-31T11:23:16.913396971 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:23:17.273595901 getTheDetails.getDbconnection method ended
+   2023-01-31T11:23:17.273690369 getTheDetatils.runner method ended
+   2023-01-31T11:23:17.273726081 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:23:17.286183397 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:23:17.286265835 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:23:17.288576070 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:23:17.288658872 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:23:17.290925128 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:24:38.155848326 Entering main Method
+   2023-01-31T11:24:38.157714795 getTheDetails.runner method run
+   2023-01-31T11:24:38.157783058 getTheDetails.getDbconnection method run
+   2023-01-31T11:24:38.157822056 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:24:38.519271212 getTheDetails.getDbconnection method ended
+   2023-01-31T11:24:38.519362267 getTheDetatils.runner method ended
+   2023-01-31T11:24:38.519400934 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:24:38.533420761 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:24:38.533534323 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:24:38.536493518 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:24:38.536561153 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:24:38.538686583 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T11:24:54.525662758 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-31T11:25:26.968049865 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T11:28:57.331691399 Entering main Method
+   2023-01-31T11:28:57.334274250 getTheDetails.runner method run
+   2023-01-31T11:28:57.334355277 getTheDetails.getDbconnection method run
+   2023-01-31T11:28:57.334394522 getTheDetails.Dbconnection variable initialize
+   2023-01-31T11:28:57.749780020 getTheDetails.getDbconnection method ended
+   2023-01-31T11:28:57.749877030 getTheDetatils.runner method ended
+   2023-01-31T11:28:57.749927006 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T11:28:57.765349271 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T11:28:57.765440867 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:28:57.767856365 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T11:28:57.767930757 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T11:28:57.770045165 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-01-31T11:29:13.401991213 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  2400 2023-01-31T11:29:21.537788096 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+   2023-01-31T13:01:26.907210900 Entering main Method
+   2023-01-31T13:01:26.910049054 getTheDetails.runner method run
+   2023-01-31T13:01:26.910120649 getTheDetails.getDbconnection method run
+   2023-01-31T13:01:26.910161885 getTheDetails.Dbconnection variable initialize
+   2023-01-31T13:01:27.414303222 getTheDetails.getDbconnection method ended
+   2023-01-31T13:01:27.414369405 getTheDetatils.runner method ended
+   2023-01-31T13:01:27.414395443 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T13:01:27.425832881 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T13:01:27.425924066 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T13:01:27.428442011 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T13:01:27.428499499 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T13:01:27.431178625 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T15:19:24.100216672 Entering main Method
+   2023-01-31T15:19:24.101626324 getTheDetails.runner method run
+   2023-01-31T15:19:24.101683303 getTheDetails.getDbconnection method run
+   2023-01-31T15:19:24.101710198 getTheDetails.Dbconnection variable initialize
+   2023-01-31T15:19:24.359692492 getTheDetails.getDbconnection method ended
+   2023-01-31T15:19:24.359761690 getTheDetatils.runner method ended
+   2023-01-31T15:19:24.359785786 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T15:19:24.369420862 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T15:19:24.369488454 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T15:19:24.370951668 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T15:19:24.371001661 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T15:19:24.372347523 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:15:46.552915705 Entering main Method
+   2023-01-31T20:15:46.555417343 getTheDetails.runner method run
+   2023-01-31T20:15:46.555488313 getTheDetails.getDbconnection method run
+   2023-01-31T20:15:46.555523662 getTheDetails.Dbconnection variable initialize
+   2023-01-31T20:15:47.151723365 getTheDetails.getDbconnection method ended
+   2023-01-31T20:15:47.151799358 getTheDetatils.runner method ended
+   2023-01-31T20:15:47.151834709 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T20:15:47.165113845 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T20:15:47.165221647 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:15:47.168328808 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:15:47.168411071 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:15:47.172519883 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:25:59.435779310 Entering main Method
+   2023-01-31T20:25:59.438288111 getTheDetails.runner method run
+   2023-01-31T20:25:59.438375335 getTheDetails.getDbconnection method run
+   2023-01-31T20:25:59.438420621 getTheDetails.Dbconnection variable initialize
+   2023-01-31T20:25:59.864134566 getTheDetails.getDbconnection method ended
+   2023-01-31T20:25:59.864203577 getTheDetatils.runner method ended
+   2023-01-31T20:25:59.864230144 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T20:25:59.876562721 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T20:25:59.876645544 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:25:59.879297648 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:25:59.879368122 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:25:59.882315349 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:26:36.894628011 Entering main Method
+   2023-01-31T20:26:36.896540979 getTheDetails.runner method run
+   2023-01-31T20:26:36.896614894 getTheDetails.getDbconnection method run
+   2023-01-31T20:26:36.896653090 getTheDetails.Dbconnection variable initialize
+   2023-01-31T20:26:37.294541711 getTheDetails.getDbconnection method ended
+   2023-01-31T20:26:37.294627370 getTheDetatils.runner method ended
+   2023-01-31T20:26:37.294654616 getTheDetails.getAllrecordsTeachers method is running
+   2023-01-31T20:26:37.307983913 getTheDetails.getAllrecrdsTeachers method ended
+   2023-01-31T20:26:37.308093930 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:26:37.311696592 getTheDetails.getAllrecordsStudents method ended
+   2023-01-31T20:26:37.311792886 getTheDetails.getAllrecordsStudent method is running.
+   2023-01-31T20:26:37.314245391 getTheDetails.getAllrecordsStudents method ended
+   2023-02-01T11:40:10.807667136 Entering main Method
+   2023-02-01T11:40:10.811239194 getTheDetails.runner method run
+   2023-02-01T11:40:10.811359090 getTheDetails.getDbconnection method run
+   2023-02-01T11:40:10.811428773 getTheDetails.Dbconnection variable initialize
+   2023-02-01T11:40:11.246355895 getTheDetails.getDbconnection method ended
+   2023-02-01T11:40:11.246465909 getTheDetatils.runner method ended
+   2023-02-01T11:40:11.246498620 getTheDetails.getAllrecordsTeachers method is running
+   2023-02-01T11:40:11.264519051 getTheDetails.getAllrecrdsTeachers method ended
+   2023-02-01T11:40:11.264666056 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-01T11:40:11.268472750 getTheDetails.getAllrecordsStudents method ended
+   2023-02-01T11:40:11.268599265 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-01T11:40:11.272384502 getTheDetails.getAllrecordsStudents method ended
+  2400 2023-02-01T11:43:06.470516995 convertTime  is running(util.Date to sql.Date)
+  2400 2023-02-01T11:43:06.470619660 convertTime method runned
+   2023-02-01T11:54:01.093480741 Entering main Method
+   2023-02-01T11:54:01.096045668 getTheDetails.runner method run
+   2023-02-01T11:54:01.096145967 getTheDetails.getDbconnection method run
+   2023-02-01T11:54:01.096204948 getTheDetails.Dbconnection variable initialize
+   2023-02-01T11:54:01.546396135 getTheDetails.getDbconnection method ended
+   2023-02-01T11:54:01.546485315 getTheDetatils.runner method ended
+   2023-02-01T11:54:01.546523109 getTheDetails.getAllrecordsTeachers method is running
+   2023-02-01T11:54:01.561942318 getTheDetails.getAllrecrdsTeachers method ended
+   2023-02-01T11:54:01.562047759 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-01T11:54:01.565025217 getTheDetails.getAllrecordsStudents method ended
+   2023-02-01T11:54:01.565117378 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-01T11:54:01.568270045 getTheDetails.getAllrecordsStudents method ended
+   2023-02-04T11:16:54.544710553 Entering main Method
+   2023-02-04T11:16:54.546578437 getTheDetails.runner method run
+   2023-02-04T11:16:54.546641295 getTheDetails.getDbconnection method run
+   2023-02-04T11:16:54.546676097 getTheDetails.Dbconnection variable initialize
+   2023-02-04T11:16:54.995028795 getTheDetails.getDbconnection method ended
+   2023-02-04T11:16:54.995090954 getTheDetatils.runner method ended
+   2023-02-04T11:16:54.995114411 getTheDetails.getAllrecordsTeachers method is running
+   2023-02-04T11:16:55.010661860 getTheDetails.getAllrecrdsTeachers method ended
+   2023-02-04T11:16:55.010730958 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-04T11:16:55.014061148 getTheDetails.getAllrecordsStudents method ended
+   2023-02-04T11:16:55.014266026 getTheDetails.getAllrecordsStudent method is running.
+   2023-02-04T11:16:55.015861461 getTheDetails.getAllrecordsStudents method ended
+   2023-03-27T17:29:27.106203081 Entering main Method
+   2023-03-27T17:29:27.108286670 getTheDetails.runner method run
+   2023-03-27T17:29:27.108372071 getTheDetails.getDbconnection method run
+   2023-03-27T17:29:27.108413841 getTheDetails.Dbconnection variable initialize
+   2023-03-27T17:29:27.411754135 getTheDetails.getDbconnection method ended
+   2023-03-27T17:29:27.411820380 getTheDetatils.runner method ended
+   2023-03-27T17:29:27.411845761 getTheDetails.getAllrecordsTeachers method is running
+   2023-03-27T17:29:27.431982722 getTheDetails.getAllrecrdsTeachers method ended
+   2023-03-27T17:29:27.432111003 getTheDetails.getAllrecordsStudent method is running.
+   2023-03-27T17:29:27.436328550 getTheDetails.getAllrecordsStudents method ended
+   2023-03-27T17:29:27.436419825 getTheDetails.getAllrecordsStudent method is running.
+   2023-03-27T17:29:27.439189798 getTheDetails.getAllrecordsStudents method ended
+   2023-03-27T17:30:23.038552923 Entering main Method
+   2023-03-27T17:30:23.039992810 getTheDetails.runner method run
+   2023-03-27T17:30:23.040049182 getTheDetails.getDbconnection method run
+   2023-03-27T17:30:23.040077789 getTheDetails.Dbconnection variable initialize
+   2023-03-27T17:30:23.306932121 getTheDetails.getDbconnection method ended
+   2023-03-27T17:30:23.307002172 getTheDetatils.runner method ended
+   2023-03-27T17:30:23.307026808 getTheDetails.getAllrecordsTeachers method is running
+   2023-03-27T17:30:23.326129586 getTheDetails.getAllrecrdsTeachers method ended
+   2023-03-27T17:30:23.326203311 getTheDetails.getAllrecordsStudent method is running.
+   2023-03-27T17:30:23.328150226 getTheDetails.getAllrecordsStudents method ended
+   2023-03-27T17:30:23.328206224 getTheDetails.getAllrecordsStudent method is running.
+   2023-03-27T17:30:23.330039961 getTheDetails.getAllrecordsStudents method ended
+   2023-03-27T17:30:47.940556769 getTheDetails.insertData method is running
+   2023-03-27T17:30:47.940643946 student data insert the database
+   2023-03-27T17:30:47.941088698 convertTime  is running(util.Date to sql.Date)
+   2023-03-27T17:30:47.941165452 convertTime method runned
+  1245 2023-03-27T17:30:52.399546780 Enter the updateStudent method is running
+  1245 2023-03-27T17:30:52.399827689 1.change name
+2.change age
+3.change Gender
+4.change Date
+choose One
+  1245 2023-03-27T17:30:54.605510835 choice answer -->1
+  1245 2023-03-27T17:30:54.605629745 switch case is starting
+  1245 2023-03-27T17:30:54.605670975 getTheDetails.changeStudentName method is running
+  1245 2023-03-27T17:30:59.208609376 getTheDetails.changeStudentName method entered
+  1245 2023-03-27T17:30:59.208666019 getTheDetails.UpdateStudent method entered
+  1245 2023-03-27T17:31:17.025787513 java.sql.SQLSyntaxErrorException: Unknown column 'uniqueID' in 'where clause'
+  

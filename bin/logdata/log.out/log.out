@@ -1,0 +1,27 @@
+null 2023-01-28T14:01:12.330467256 Entering main Method
+  null 2023-01-28T14:01:12.333664856 DataBase is running
+  null 2023-01-28T14:01:12.334846674 getTheDetails.runner method run
+  null 2023-01-28T14:01:12.335031321 getTheDetails.getDbconnection method run
+  null 2023-01-28T14:01:12.335168372 getTheDetails.Dbconnection variable initialize
+  null 2023-01-28T14:01:12.675699629 getTheDetails.getDbconnection method ended
+  null 2023-01-28T14:01:12.675874746 getTheDetatils.runner method ended
+  null 2023-01-28T14:01:12.675942802 getTheDetails.getAllrecordsTeachers method is running
+  null 2023-01-28T14:01:12.691840454 getTheDetails.getAllrecrdsTeachers method ended
+  null 2023-01-28T14:01:12.692059836 getTheDetails.getAllrecordsStudent method is running.
+  null 2023-01-28T14:01:12.695154343 getTheDetails.getAllrecordsStudents method ended
+  null 2023-01-28T14:01:12.695330913 getTheDetails.getAllrecordsStudent method is running.
+  null 2023-01-28T14:01:12.698135236 getTheDetails.getAllrecordsStudents method ended
+  null 2023-01-28T14:01:49.428774665 Entering main Method
+  null 2023-01-28T14:01:49.431581888 DataBase is running
+  null 2023-01-28T14:01:49.432880237 getTheDetails.runner method run
+  null 2023-01-28T14:01:49.433010126 getTheDetails.getDbconnection method run
+  null 2023-01-28T14:01:49.433151525 getTheDetails.Dbconnection variable initialize
+  null 2023-01-28T14:01:49.813937588 getTheDetails.getDbconnection method ended
+  null 2023-01-28T14:01:49.814006011 getTheDetatils.runner method ended
+  null 2023-01-28T14:01:49.814030930 getTheDetails.getAllrecordsTeachers method is running
+  null 2023-01-28T14:01:49.828688496 getTheDetails.getAllrecrdsTeachers method ended
+  null 2023-01-28T14:01:49.828874237 getTheDetails.getAllrecordsStudent method is running.
+  null 2023-01-28T14:01:49.831353160 getTheDetails.getAllrecordsStudents method ended
+  null 2023-01-28T14:01:49.831422563 getTheDetails.getAllrecordsStudent method is running.
+  null 2023-01-28T14:01:49.835036156 getTheDetails.getAllrecordsStudents method ended
+  
